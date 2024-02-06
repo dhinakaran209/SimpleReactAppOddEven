@@ -15,9 +15,3 @@
   border-radius: 12px;
   padding: 12px;
 }
-
-@screen && (max-width: 767px) {
-  .card {
-    width: 100%;
-  }
-}
